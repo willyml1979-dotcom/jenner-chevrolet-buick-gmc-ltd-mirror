@@ -1,0 +1,324 @@
+{
+  "dealership": "Jenner Chevrolet Buick Gmc Ltd",
+  "generated_at": "2026-09-24T20:52:38",
+  "vehicle_count": 30,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2019 GMC Terrain AWD",
+      "vin": "3GKALVEX2KL136588",
+      "stock": "XC7748B",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/c784d8b4a158.html",
+      "source_url": "https://jennerchev.com/view/used-2019-gmc-terrain-1893857/",
+      "dealer_url": "https://jennerchev.com/view/used-2019-gmc-terrain-1893857/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:05",
+      "odometer_km": 142006,
+      "condition": "used"
+    },
+    {
+      "name": "Used2020 Chevrolet Bolt EV FWD",
+      "vin": "1G1FY6S0XL4124737",
+      "stock": "BT0317A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ca32ae4207cb.html",
+      "source_url": "https://jennerchev.com/view/used-2020-chevrolet-bolt-ev-1894434/",
+      "dealer_url": "https://jennerchev.com/view/used-2020-chevrolet-bolt-ev-1894434/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:12",
+      "odometer_km": 72238,
+      "condition": "used"
+    },
+    {
+      "name": "Used2021 Chevrolet Camaro RWD",
+      "vin": "1G1FH3D73M0140019",
+      "stock": "XZ7420",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/dc2ad21cb737.html",
+      "source_url": "https://jennerchev.com/view/used-2021-chevrolet-camaro-1854759/",
+      "dealer_url": "https://jennerchev.com/view/used-2021-chevrolet-camaro-1854759/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:21",
+      "odometer_km": 16900,
+      "condition": "used"
+    },
+    {
+      "name": "Used2021 Chevrolet Colorado 4x4",
+      "vin": "1GCRTEEN4M1111943",
+      "stock": "XZ7388",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/2b40a01f8ab1.html",
+      "source_url": "https://jennerchev.com/view/used-2021-chevrolet-colorado-1567245/",
+      "dealer_url": "https://jennerchev.com/view/used-2021-chevrolet-colorado-1567245/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:30",
+      "odometer_km": 86661,
+      "condition": "used"
+    },
+    {
+      "name": "Used2022 Chevrolet Corvette RWD",
+      "vin": "1G1YC2D4XN5112360",
+      "stock": "XZ7414",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ed2461069528.html",
+      "source_url": "https://jennerchev.com/view/used-2022-chevrolet-corvette-1819527/",
+      "dealer_url": "https://jennerchev.com/view/used-2022-chevrolet-corvette-1819527/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:38",
+      "odometer_km": 17095,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 Chevrolet Silverado 3500HD 4x4",
+      "vin": "1GC4YVEY2PF205106",
+      "stock": "XP5133A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/516b189b15fc.html",
+      "source_url": "https://jennerchev.com/view/used-2023-chevrolet-silverado-3500hd-1816029/",
+      "dealer_url": "https://jennerchev.com/view/used-2023-chevrolet-silverado-3500hd-1816029/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:49",
+      "odometer_km": 43921,
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 Kia Telluride AWD",
+      "vin": "5XYP5DGC5PG382425",
+      "stock": "GY1024A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/9d8588c100fe.html",
+      "source_url": "https://jennerchev.com/view/used-2023-kia-telluride-1879848/",
+      "dealer_url": "https://jennerchev.com/view/used-2023-kia-telluride-1879848/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:47:58",
+      "odometer_km": 49251,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 Buick Envista FWD",
+      "vin": "KL47LBE23RB158209",
+      "stock": "XZ7422",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/676d1ccb40f6.html",
+      "source_url": "https://jennerchev.com/view/used-2024-buick-envista-1872005/",
+      "dealer_url": "https://jennerchev.com/view/used-2024-buick-envista-1872005/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:48:07",
+      "odometer_km": 27546,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 Chevrolet Silverado 1500 4x4",
+      "vin": "1GCUDEE8XRZ106143",
+      "stock": "XP8328A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/3ed0526582af.html",
+      "source_url": "https://jennerchev.com/view/used-2024-chevrolet-silverado-1500-1607994/",
+      "dealer_url": "https://jennerchev.com/view/used-2024-chevrolet-silverado-1500-1607994/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:48:16",
+      "odometer_km": 66098,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 GMC Sierra 1500 4x4",
+      "vin": "1GTUUDE87RZ161739",
+      "stock": "CV7214A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/96ab5e501d80.html",
+      "source_url": "https://jennerchev.com/view/used-2024-gmc-sierra-1500-1846758/",
+      "dealer_url": "https://jennerchev.com/view/used-2024-gmc-sierra-1500-1846758/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:48:27",
+      "odometer_km": 47463,
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 Volkswagen Atlas AWD",
+      "vin": "1V2LR2CA2RC568263",
+      "stock": "XT7562A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/10d76219f63d.html",
+      "source_url": "https://jennerchev.com/view/used-2024-volkswagen-atlas-1783622/",
+      "dealer_url": "https://jennerchev.com/view/used-2024-volkswagen-atlas-1783622/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:48:36",
+      "odometer_km": 68575,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Buick Encore GX AWD",
+      "vin": "KL4AMCSL4SB196477",
+      "stock": "EC7648B",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/8967232de9c0.html",
+      "source_url": "https://jennerchev.com/view/used-2025-buick-encore-gx-1879850/",
+      "dealer_url": "https://jennerchev.com/view/used-2025-buick-encore-gx-1879850/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:48:45",
+      "odometer_km": 11342,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Chevrolet Traverse AWD",
+      "vin": "1GNEVJRS0SJ308016",
+      "stock": "XL2701A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ddf815750d9d.html",
+      "source_url": "https://jennerchev.com/view/used-2025-chevrolet-traverse-1783619/",
+      "dealer_url": "https://jennerchev.com/view/used-2025-chevrolet-traverse-1783619/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:48:54",
+      "odometer_km": 15164,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 Kia Seltos AWD",
+      "vin": "KNDETCA7XS7782845",
+      "stock": "XC4916A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/9410d3ee7518.html",
+      "source_url": "https://jennerchev.com/view/used-2025-kia-seltos-1845619/",
+      "dealer_url": "https://jennerchev.com/view/used-2025-kia-seltos-1845619/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:49:04",
+      "odometer_km": 14255,
+      "condition": "used"
+    },
+    {
+      "name": "Used2026 GMC Terrain AWD",
+      "vin": "3GKALZEG8TL128424",
+      "stock": "EC6477A",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/1bb8ff43e2ac.html",
+      "source_url": "https://jennerchev.com/view/used-2026-gmc-terrain-1692601/",
+      "dealer_url": "https://jennerchev.com/view/used-2026-gmc-terrain-1692601/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:49:12",
+      "odometer_km": 16192,
+      "condition": "used"
+    },
+    {
+      "name": "New2025 Chevrolet Express Cargo Van RWD",
+      "vin": "1GCWGAFP0S1271315",
+      "stock": "XV1315",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/334230f3f265.html",
+      "source_url": "https://jennerchev.com/view/new-2025-chevrolet-express-cargo-van-1530842/",
+      "dealer_url": "https://jennerchev.com/view/new-2025-chevrolet-express-cargo-van-1530842/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:50:24",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Buick Encore GX AWD",
+      "vin": "KL4AMCSLXTB029249",
+      "stock": "EC9249",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/fe3c13649ab1.html",
+      "source_url": "https://jennerchev.com/view/new-2026-buick-encore-gx-1462322/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-buick-encore-gx-1462322/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:50:33",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Buick Envista FWD",
+      "vin": "KL47LCE27TB096066",
+      "stock": "EN6066",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/338a8181cb39.html",
+      "source_url": "https://jennerchev.com/view/new-2026-buick-envista-1579256/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-buick-envista-1579256/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:50:43",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Colorado 4x4",
+      "vin": "1GCPTEEK5T1164811",
+      "stock": "XC4811",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/bb1f51b45b3b.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-colorado-1585817/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-colorado-1585817/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:50:53",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Silverado 1500 4x4",
+      "vin": "1GCVKEE87TZ123550",
+      "stock": "XP3550",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/1d23a2725257.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1463529/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1463529/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:03",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Silverado 1500 4x4",
+      "vin": "1GCVKEE84TZ179350",
+      "stock": "XP9350",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/0380f14a46be.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1501824/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1501824/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:13",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Silverado 3500HD 4x4",
+      "vin": "1GC4KUEY0TF124188",
+      "stock": "XP4188",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/51ce3c7c33a6.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-3500hd-1489737/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-3500hd-1489737/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:24",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Trailblazer AWD",
+      "vin": "KL79MSSL0TB026697",
+      "stock": "TB6697",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/29d01b26d7d4.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1462300/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1462300/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:32",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC Acadia AWD",
+      "vin": "1GKENNKS1TJ113302",
+      "stock": "GA3302",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/28fc31d49eef.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1462182/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1462182/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:39",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC Acadia AWD",
+      "vin": "1GKENPKS9TJ144812",
+      "stock": "GA4812",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/c72ce8579636.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1479653/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1479653/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:48",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC Acadia AWD",
+      "vin": "1GKENRKS0TJ140322",
+      "stock": "GA0322",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/0def3614d215.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1517897/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1517897/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:51:58",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC HUMMER EV SUV 4x4",
+      "vin": "1GKTEHDE9TU602139",
+      "stock": "EHV2139",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/615b9d8c7526.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-hummer-ev-suv-1489741/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-hummer-ev-suv-1489741/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:52:05",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC Sierra 1500 4x4",
+      "vin": "3GTUUCEDXTG157800",
+      "stock": "GP7800",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/9f28cdb50d72.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1514854/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1514854/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:52:13",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC Sierra 1500 4x4",
+      "vin": "3GTUUCED8TG181125",
+      "stock": "GP1125",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/dc0f5ba191a9.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1538745/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1538745/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:52:23",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 GMC Sierra 1500 4x4",
+      "vin": "3GTUUCED6TG148172",
+      "stock": "GP8172",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/3e6c75ef4c8c.html",
+      "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1546230/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1546230/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T20:52:30",
+      "condition": "new"
+    }
+  ]
+}
