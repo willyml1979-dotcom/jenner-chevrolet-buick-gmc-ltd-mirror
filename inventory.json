@@ -1,6 +1,6 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-25T21:20:20",
+  "generated_at": "2026-09-25T21:22:59",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -171,23 +171,13 @@
       "condition": "used"
     },
     {
-      "name": "New2025 Chevrolet Express Cargo Van RWD",
-      "vin": "1GCWGAFP0S1271315",
-      "stock": "XV1315",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/334230f3f265.html",
-      "source_url": "https://jennerchev.com/view/new-2025-chevrolet-express-cargo-van-1530842/",
-      "dealer_url": "https://jennerchev.com/view/new-2025-chevrolet-express-cargo-van-1530842/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:50:24",
-      "condition": "new"
-    },
-    {
       "name": "New2026 Buick Encore GX AWD",
       "vin": "KL4AMCSLXTB029249",
       "stock": "EC9249",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/fe3c13649ab1.html",
       "source_url": "https://jennerchev.com/view/new-2026-buick-encore-gx-1462322/",
       "dealer_url": "https://jennerchev.com/view/new-2026-buick-encore-gx-1462322/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:50:33",
+      "last_verified": "2026-09-25T21:20:42",
       "condition": "new"
     },
     {
@@ -197,7 +187,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/338a8181cb39.html",
       "source_url": "https://jennerchev.com/view/new-2026-buick-envista-1579256/",
       "dealer_url": "https://jennerchev.com/view/new-2026-buick-envista-1579256/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:50:43",
+      "last_verified": "2026-09-25T21:20:51",
       "condition": "new"
     },
     {
@@ -207,7 +197,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/bb1f51b45b3b.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-colorado-1585817/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-colorado-1585817/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:50:53",
+      "last_verified": "2026-09-25T21:21:01",
       "condition": "new"
     },
     {
@@ -217,7 +207,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/1d23a2725257.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1463529/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1463529/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:03",
+      "last_verified": "2026-09-25T21:21:12",
       "condition": "new"
     },
     {
@@ -227,7 +217,17 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/0380f14a46be.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1501824/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1501824/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:13",
+      "last_verified": "2026-09-25T21:21:23",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Silverado 1500 4x4",
+      "vin": "3GCUKEE81TG221792",
+      "stock": "XP1792",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/eddf64cc688a.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1587844/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1587844/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T21:20:33",
       "condition": "new"
     },
     {
@@ -237,7 +237,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/51ce3c7c33a6.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-3500hd-1489737/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-3500hd-1489737/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:24",
+      "last_verified": "2026-09-25T21:21:32",
       "condition": "new"
     },
     {
@@ -247,7 +247,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/29d01b26d7d4.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1462300/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1462300/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:32",
+      "last_verified": "2026-09-25T21:21:43",
       "condition": "new"
     },
     {
@@ -257,7 +257,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/28fc31d49eef.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1462182/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1462182/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:39",
+      "last_verified": "2026-09-25T21:21:51",
       "condition": "new"
     },
     {
@@ -267,7 +267,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/c72ce8579636.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1479653/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1479653/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:48",
+      "last_verified": "2026-09-25T21:22:03",
       "condition": "new"
     },
     {
@@ -277,7 +277,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/0def3614d215.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1517897/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1517897/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:51:58",
+      "last_verified": "2026-09-25T21:22:13",
       "condition": "new"
     },
     {
@@ -287,7 +287,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/615b9d8c7526.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-hummer-ev-suv-1489741/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-hummer-ev-suv-1489741/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:52:05",
+      "last_verified": "2026-09-25T21:22:24",
       "condition": "new"
     },
     {
@@ -297,7 +297,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/9f28cdb50d72.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1514854/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1514854/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:52:13",
+      "last_verified": "2026-09-25T21:22:35",
       "condition": "new"
     },
     {
@@ -307,7 +307,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/dc0f5ba191a9.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1538745/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1538745/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:52:23",
+      "last_verified": "2026-09-25T21:22:45",
       "condition": "new"
     },
     {
@@ -317,7 +317,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/3e6c75ef4c8c.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1546230/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1546230/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:52:30",
+      "last_verified": "2026-09-25T21:22:55",
       "condition": "new"
     }
   ]
