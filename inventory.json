@@ -1,6 +1,6 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-24T20:52:38",
+  "generated_at": "2026-09-25T21:20:20",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/c784d8b4a158.html",
       "source_url": "https://jennerchev.com/view/used-2019-gmc-terrain-1893857/",
       "dealer_url": "https://jennerchev.com/view/used-2019-gmc-terrain-1893857/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:05",
+      "last_verified": "2026-09-25T21:17:56",
       "odometer_km": 142006,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ca32ae4207cb.html",
       "source_url": "https://jennerchev.com/view/used-2020-chevrolet-bolt-ev-1894434/",
       "dealer_url": "https://jennerchev.com/view/used-2020-chevrolet-bolt-ev-1894434/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:12",
+      "last_verified": "2026-09-25T21:18:07",
       "odometer_km": 72238,
       "condition": "used"
     },
@@ -34,7 +34,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/dc2ad21cb737.html",
       "source_url": "https://jennerchev.com/view/used-2021-chevrolet-camaro-1854759/",
       "dealer_url": "https://jennerchev.com/view/used-2021-chevrolet-camaro-1854759/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:21",
+      "last_verified": "2026-09-25T21:18:16",
       "odometer_km": 16900,
       "condition": "used"
     },
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/2b40a01f8ab1.html",
       "source_url": "https://jennerchev.com/view/used-2021-chevrolet-colorado-1567245/",
       "dealer_url": "https://jennerchev.com/view/used-2021-chevrolet-colorado-1567245/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:30",
+      "last_verified": "2026-09-25T21:18:28",
       "odometer_km": 86661,
       "condition": "used"
     },
@@ -56,19 +56,19 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ed2461069528.html",
       "source_url": "https://jennerchev.com/view/used-2022-chevrolet-corvette-1819527/",
       "dealer_url": "https://jennerchev.com/view/used-2022-chevrolet-corvette-1819527/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:38",
+      "last_verified": "2026-09-25T21:18:39",
       "odometer_km": 17095,
       "condition": "used"
     },
     {
-      "name": "Used2023 Chevrolet Silverado 3500HD 4x4",
-      "vin": "1GC4YVEY2PF205106",
-      "stock": "XP5133A",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/516b189b15fc.html",
-      "source_url": "https://jennerchev.com/view/used-2023-chevrolet-silverado-3500hd-1816029/",
-      "dealer_url": "https://jennerchev.com/view/used-2023-chevrolet-silverado-3500hd-1816029/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:49",
-      "odometer_km": 43921,
+      "name": "Used2023 Dodge Charger RWD",
+      "vin": "2C3CDXGJ7PH528718",
+      "stock": "XZ7425",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/07857b55580d.html",
+      "source_url": "https://jennerchev.com/view/used-2023-dodge-charger-1895440/",
+      "dealer_url": "https://jennerchev.com/view/used-2023-dodge-charger-1895440/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T21:17:49",
+      "odometer_km": 11677,
       "condition": "used"
     },
     {
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/9d8588c100fe.html",
       "source_url": "https://jennerchev.com/view/used-2023-kia-telluride-1879848/",
       "dealer_url": "https://jennerchev.com/view/used-2023-kia-telluride-1879848/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:47:58",
+      "last_verified": "2026-09-25T21:18:48",
       "odometer_km": 49251,
       "condition": "used"
     },
@@ -89,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/676d1ccb40f6.html",
       "source_url": "https://jennerchev.com/view/used-2024-buick-envista-1872005/",
       "dealer_url": "https://jennerchev.com/view/used-2024-buick-envista-1872005/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:48:07",
+      "last_verified": "2026-09-25T21:19:00",
       "odometer_km": 27546,
       "condition": "used"
     },
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/3ed0526582af.html",
       "source_url": "https://jennerchev.com/view/used-2024-chevrolet-silverado-1500-1607994/",
       "dealer_url": "https://jennerchev.com/view/used-2024-chevrolet-silverado-1500-1607994/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:48:16",
+      "last_verified": "2026-09-25T21:19:12",
       "odometer_km": 66098,
       "condition": "used"
     },
@@ -111,7 +111,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/96ab5e501d80.html",
       "source_url": "https://jennerchev.com/view/used-2024-gmc-sierra-1500-1846758/",
       "dealer_url": "https://jennerchev.com/view/used-2024-gmc-sierra-1500-1846758/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:48:27",
+      "last_verified": "2026-09-25T21:19:22",
       "odometer_km": 47463,
       "condition": "used"
     },
@@ -122,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/10d76219f63d.html",
       "source_url": "https://jennerchev.com/view/used-2024-volkswagen-atlas-1783622/",
       "dealer_url": "https://jennerchev.com/view/used-2024-volkswagen-atlas-1783622/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:48:36",
+      "last_verified": "2026-09-25T21:19:31",
       "odometer_km": 68575,
       "condition": "used"
     },
@@ -133,7 +133,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/8967232de9c0.html",
       "source_url": "https://jennerchev.com/view/used-2025-buick-encore-gx-1879850/",
       "dealer_url": "https://jennerchev.com/view/used-2025-buick-encore-gx-1879850/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:48:45",
+      "last_verified": "2026-09-25T21:19:41",
       "odometer_km": 11342,
       "condition": "used"
     },
@@ -144,7 +144,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ddf815750d9d.html",
       "source_url": "https://jennerchev.com/view/used-2025-chevrolet-traverse-1783619/",
       "dealer_url": "https://jennerchev.com/view/used-2025-chevrolet-traverse-1783619/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:48:54",
+      "last_verified": "2026-09-25T21:19:52",
       "odometer_km": 15164,
       "condition": "used"
     },
@@ -155,7 +155,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/9410d3ee7518.html",
       "source_url": "https://jennerchev.com/view/used-2025-kia-seltos-1845619/",
       "dealer_url": "https://jennerchev.com/view/used-2025-kia-seltos-1845619/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:49:04",
+      "last_verified": "2026-09-25T21:20:03",
       "odometer_km": 14255,
       "condition": "used"
     },
@@ -166,7 +166,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/1bb8ff43e2ac.html",
       "source_url": "https://jennerchev.com/view/used-2026-gmc-terrain-1692601/",
       "dealer_url": "https://jennerchev.com/view/used-2026-gmc-terrain-1692601/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T20:49:12",
+      "last_verified": "2026-09-25T21:20:14",
       "odometer_km": 16192,
       "condition": "used"
     },
