@@ -1,6 +1,6 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-15T08:41:17",
+  "generated_at": "2026-10-15T08:43:59",
   "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -207,7 +207,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/fe3c13649ab1.html",
       "source_url": "https://jennerchev.com/view/new-2026-buick-encore-gx-1462322/",
       "dealer_url": "https://jennerchev.com/view/new-2026-buick-encore-gx-1462322/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:03:28",
+      "last_verified": "2026-10-15T08:42:29",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -219,19 +219,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/338a8181cb39.html",
       "source_url": "https://jennerchev.com/view/new-2026-buick-envista-1579256/",
       "dealer_url": "https://jennerchev.com/view/new-2026-buick-envista-1579256/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:03:37",
-      "condition": "new",
-      "city": "Victoria",
-      "province": "BC"
-    },
-    {
-      "name": "New2026 Chevrolet Colorado 4x4",
-      "vin": "1GCPTEEK5T1164811",
-      "stock": "XC4811",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/bb1f51b45b3b.html",
-      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-colorado-1585817/",
-      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-colorado-1585817/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:03:46",
+      "last_verified": "2026-10-15T08:42:37",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -243,7 +231,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/1d23a2725257.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1463529/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1463529/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:03:54",
+      "last_verified": "2026-10-15T08:42:54",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -255,7 +243,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/0380f14a46be.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1501824/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1501824/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:04:04",
+      "last_verified": "2026-10-15T08:43:01",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -267,7 +255,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/eddf64cc688a.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1587844/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-silverado-1500-1587844/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:03:18",
+      "last_verified": "2026-10-15T08:42:19",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -279,7 +267,19 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/29d01b26d7d4.html",
       "source_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1462300/",
       "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1462300/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:04:23",
+      "last_verified": "2026-10-15T08:43:19",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
+    },
+    {
+      "name": "New2026 Chevrolet Trailblazer AWD",
+      "vin": "KL79MRSLXTB127996",
+      "stock": "TB7996",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/9214dcc6f404.html",
+      "source_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1670257/",
+      "dealer_url": "https://jennerchev.com/view/new-2026-chevrolet-trailblazer-1670257/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T08:41:44",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -291,7 +291,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/28fc31d49eef.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1462182/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1462182/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:04:33",
+      "last_verified": "2026-10-15T08:43:27",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -303,7 +303,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/c72ce8579636.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1479653/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-acadia-1479653/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:04:42",
+      "last_verified": "2026-10-15T08:43:37",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -315,7 +315,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/615b9d8c7526.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-hummer-ev-suv-1489741/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-hummer-ev-suv-1489741/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:05:00",
+      "last_verified": "2026-10-15T08:43:55",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -351,7 +351,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/3e6c75ef4c8c.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1546230/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1546230/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T04:30:24",
+      "last_verified": "2026-10-15T08:41:53",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -363,7 +363,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/cc0c1756fed0.html",
       "source_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1598680/",
       "dealer_url": "https://jennerchev.com/view/new-2026-gmc-sierra-1500-1598680/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:03:09",
+      "last_verified": "2026-10-15T08:42:09",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
@@ -375,7 +375,7 @@
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/4dccbe272654.html",
       "source_url": "https://jennerchev.com/view/new-2027-chevrolet-bolt-1663956/",
       "dealer_url": "https://jennerchev.com/view/new-2027-chevrolet-bolt-1663956/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T06:02:59",
+      "last_verified": "2026-10-15T08:42:02",
       "condition": "new",
       "city": "Victoria",
       "province": "BC"
