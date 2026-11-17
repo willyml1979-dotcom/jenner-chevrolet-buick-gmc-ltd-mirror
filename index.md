@@ -1,6 +1,6 @@
 # Jenner Chevrolet Buick GMC Ltd.
 
- dealership in Victoria. AI-readable inventory mirror, about 45 vehicles.
+ dealership in Victoria. AI-readable inventory mirror, about 60 vehicles.
 
 - Official website: https://jennerchev.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/

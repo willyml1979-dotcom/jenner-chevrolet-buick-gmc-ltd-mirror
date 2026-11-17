@@ -1,7 +1,7 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-16T19:05:15",
-  "vehicle_count": 45,
+  "generated_at": "2026-11-16T19:10:31",
+  "vehicle_count": 60,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -192,9 +192,21 @@
       "condition": "new"
     },
     {
+      "name": "New2026 Buick Envision AWD",
+      "vin": "LRBFZPR48TD074700",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/297158a08c8f.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Buick Envista FWD",
       "vin": "KL47LCE27TB096066",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/338a8181cb39.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Equinox AWD",
+      "vin": "3GNAXTEG9TL508621",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/b90bd6fb4655.html",
       "condition": "new"
     },
     {
@@ -216,6 +228,24 @@
       "condition": "new"
     },
     {
+      "name": "New2026 Chevrolet Silverado 1500 RWD",
+      "vin": "3GCNAAEK5TG246397",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/39df925a863c.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Silverado 1500 4x4",
+      "vin": "3GCUKCED0TG385598",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/1fc60bf77080.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Silverado 3500HD CC 4x4",
+      "vin": "1GB4KSEY5TF308244",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/cff911484df7.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Chevrolet Trailblazer AWD",
       "vin": "KL79MSSL0TB026697",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/29d01b26d7d4.html",
@@ -225,6 +255,12 @@
       "name": "New2026 Chevrolet Trailblazer AWD",
       "vin": "KL79MRSLXTB127996",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/9214dcc6f404.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026 Chevrolet Trax FWD",
+      "vin": "KL77LJE28TC090908",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/b192ad824222.html",
       "condition": "new"
     },
     {
@@ -264,15 +300,69 @@
       "condition": "new"
     },
     {
-      "name": "New2027 Chevrolet Bolt FWD",
-      "vin": "1G1FZ6EV9VF103390",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/4dccbe272654.html",
+      "name": "New2026 GMC Sierra 3500HD 4x4",
+      "vin": "1GT4UWEY5TF258264",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/9bbe79c82241.html",
       "condition": "new"
     },
     {
       "name": "New2027 Chevrolet Bolt FWD",
       "vin": "1G1FY6EV7VF107828",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/2f4e2d76279d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EV7VF107845",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/411d665801b2.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EV9VF109077",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/4d9351631c83.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EV6VF109182",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/83cef66e3e50.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EV0VF109078",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/21cb05c3702a.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EVXVF109654",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/4a53e2d69c14.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EV5VF113871",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/c70951989ad0.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EVXVF113882",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/205d62782247.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FY6EV6VF113877",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/d6a8b49f8bb1.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FZ6EV5VF114998",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/2d6df72b83cd.html",
       "condition": "new"
     }
   ]
