@@ -1,14 +1,32 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-26T00:12:30",
-  "vehicle_count": 30,
+  "generated_at": "2026-11-16T19:05:15",
+  "vehicle_count": 45,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "Used2019 Chevrolet Bolt EV FWD",
-      "vin": "1G1FZ6S08K4144092",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/e57a967cc047.html",
+      "name": "Used2012 Chevrolet Orlando FWD",
+      "vin": "KL77P2EM2CK562974",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/2ddbab2706af.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018 Audi Q3 AWD",
+      "vin": "WA1JCCFS4JR019731",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/4c9cc2cdfdc5.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018 Chevrolet Corvette RWD",
+      "vin": "1G1YD2D77J5102063",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/2ee1814bb6e3.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2018 Chevrolet Equinox AWD",
+      "vin": "3GNAXXEU7JS550673",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ca790821fe2e.html",
       "condition": "used"
     },
     {
@@ -24,6 +42,18 @@
       "condition": "used"
     },
     {
+      "name": "Used2020 Honda HR-V AWD",
+      "vin": "3CZRU6H95LM108207",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/60a601a17996.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020 Ram 1500 4x4",
+      "vin": "1C6SRFLT1LN412269",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/1749ab271064.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2021 Chevrolet Camaro RWD",
       "vin": "1G1FH3D73M0140019",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/dc2ad21cb737.html",
@@ -36,9 +66,39 @@
       "condition": "used"
     },
     {
+      "name": "Used2021 Hyundai Elantra FWD",
+      "vin": "KMHLN4AG1MU168421",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/cb2026dce58f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022 Chevrolet Bolt EV FWD",
+      "vin": "1G1FW6S01N4117667",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/37dfdd7308ee.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2022 Chevrolet Corvette RWD",
       "vin": "1G1YC2D4XN5112360",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ed2461069528.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022 Jeep Compass 4x4",
+      "vin": "3C4NJDDB6NT156592",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/12b14b4d324a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 Chevrolet Bolt EUV FWD",
+      "vin": "1G1FZ6S00P4168166",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/b517eb548351.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023 Chevrolet Bolt EV FWD",
+      "vin": "1G1FW6S0XP4138536",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/7b7f180668e7.html",
       "condition": "used"
     },
     {
@@ -48,9 +108,9 @@
       "condition": "used"
     },
     {
-      "name": "Used2023 Kia Telluride AWD",
-      "vin": "5XYP5DGC5PG382425",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/9d8588c100fe.html",
+      "name": "Used2023 GMC Sierra 1500 4x4",
+      "vin": "3GTUUGE85PG113686",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/fd6f73bd88c9.html",
       "condition": "used"
     },
     {
@@ -60,9 +120,21 @@
       "condition": "used"
     },
     {
+      "name": "Used2024 Chevrolet Equinox EV FWD",
+      "vin": "3GN7DLRP6RS242132",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/28e0c830f4be.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2024 Chevrolet Silverado 1500 4x4",
       "vin": "1GCUDEE8XRZ106143",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/3ed0526582af.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024 Chevrolet Trax FWD",
+      "vin": "KL77LKE26RC057680",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/246500d295a4.html",
       "condition": "used"
     },
     {
@@ -84,9 +156,27 @@
       "condition": "used"
     },
     {
+      "name": "Used2025 Chevrolet Equinox AWD",
+      "vin": "3GNAXTEG5SL169905",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/3ad495a2833a.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2025 Chevrolet Traverse AWD",
       "vin": "1GNEVJRS0SJ308016",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/ddf815750d9d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 GMC Sierra 1500 4x4",
+      "vin": "1GTPUAEK5SZ275817",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/65b0fb20a947.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025 GMC Yukon 4x4",
+      "vin": "1GKS2DRL2SR159113",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/used/f34272a71ac9.html",
       "condition": "used"
     },
     {
