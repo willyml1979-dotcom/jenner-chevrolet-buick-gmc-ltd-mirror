@@ -1,7 +1,7 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-17T19:19:38",
-  "vehicle_count": 60,
+  "generated_at": "2026-11-17T19:25:57",
+  "vehicle_count": 62,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -204,6 +204,12 @@
       "condition": "new"
     },
     {
+      "name": "New2026 Chevrolet Colorado 4x4",
+      "vin": "1GCPTEEK1T1263304",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/740574707b56.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026 Chevrolet Equinox AWD",
       "vin": "3GNAXTEG9TL508621",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/b90bd6fb4655.html",
@@ -363,6 +369,12 @@
       "name": "New2027 Chevrolet Bolt FWD",
       "vin": "1G1FZ6EV5VF114998",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/2d6df72b83cd.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027 Chevrolet Bolt FWD",
+      "vin": "1G1FZ6EV9VF114924",
+      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/079b45d4a1d4.html",
       "condition": "new"
     }
   ]
