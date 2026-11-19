@@ -1,7 +1,7 @@
 {
   "dealership": "Jenner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-18T19:22:51",
-  "vehicle_count": 62,
+  "generated_at": "2026-11-18T19:28:37",
+  "vehicle_count": 61,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -255,12 +255,6 @@
       "name": "New2026 Chevrolet Trailblazer AWD",
       "vin": "KL79MSSL0TB026697",
       "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/29d01b26d7d4.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026 Chevrolet Trailblazer AWD",
-      "vin": "KL79MRSLXTB127996",
-      "url": "https://willyml1979-dotcom.github.io/jenner-chevrolet-buick-gmc-ltd-mirror/new/9214dcc6f404.html",
       "condition": "new"
     },
     {
